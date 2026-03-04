@@ -1,0 +1,9 @@
+pages\AddRegisterPage.class
+pages\LoginPage.class
+utils\DriverFactory.class
+base\Browser.class
+utils\waithelper.class
+utils\AllureResultsCleaner.class
+utils\ConfigReader.class
+utils\ScreenshotUtil.class
+utils\ExtentManager.class

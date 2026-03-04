@@ -1,0 +1,5 @@
+stepdefinitions\LoginSteps.class
+stepdefinitions\InvalidSteps.class
+runners\TestRunner.class
+stepdefinitions\AddRegisterSteps.class
+hooks\Hooks.class

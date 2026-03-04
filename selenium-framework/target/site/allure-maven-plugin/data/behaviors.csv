@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","VMS POS Register","Login and add POS register.","0","0","1","0","0"
+"","","","0","0","2","0","0"
+"","Login functionality","Verify login with valid credentials","0","0","1","0","0"
